@@ -1,0 +1,79 @@
+body {
+  background-color: #ffffff;
+}
+
+/*------------------------------header----------------------------------*/
+
+.logo {
+  color: #2196f3;
+}
+.logo-header {
+  color: black;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+.contacts {
+  color: #757575;
+}
+.nav-link {
+  color: #212121;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #2196f3;
+}
+.contacts:hover,
+.contacts:focus {
+  color: #2196f3;
+}
+
+/* ----------------------------hero----------------------------*/
+.hero {
+  background-color: #2f303a;
+}
+.hero-text {
+  color: #ffffff;
+}
+.button-hero {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+/*---------------------------- benefits----------------------------*/
+
+.hidden {
+  visibility: hidden;
+}
+.benefits-name {
+  color: #212121;
+}
+.benefits-description {
+  color: #757575;
+}
+
+/*-----------------------------work--------------------------------*/
+.work-text {
+  color: #212121;
+}
+
+/*-----------------------------unit----------------------------------*/
+
+/*----------------------------footer---------------------------------*/
+footer {
+  background-color: #2f303a;
+}
+.logo-footer {
+  color: #ffffff;
+}
+.footer-adress {
+  color: #ffffff;
+}
+.footer-link {
+  color: rgba(255, 255, 255, 0.6);
+}
