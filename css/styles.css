@@ -45,6 +45,10 @@ body {
   background-color: #2196f3;
   color: #ffffff;
 }
+.button-hero:hover,
+.button-hero:focus {
+  background-color: #188ce8;
+}
 /*---------------------------- benefits----------------------------*/
 
 .hidden {
@@ -64,6 +68,10 @@ body {
 
 /*-----------------------------unit----------------------------------*/
 
+.unit {
+  background-color: #f5f4fa;
+}
+
 /*----------------------------footer---------------------------------*/
 footer {
   background-color: #2f303a;
@@ -76,4 +84,16 @@ footer {
 }
 .footer-link {
   color: rgba(255, 255, 255, 0.6);
+}
+/*---------------portfolio.work-type--------------------------*/
+
+.button-main-link:hover,
+.button-main-link:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.button-main-link {
+  color: #212121;
+  background-color: #f5f4fa;
+  border-radius: 4px;
 }
